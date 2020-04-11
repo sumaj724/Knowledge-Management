@@ -11,3 +11,6 @@ Project Team:
 
 4)Sunitha        PES1201802414 
 
+Overview:
+The project, Hotel Management System is a web-based application that allows the hotel manager to handle all hotel activities online. 
+Hotel management project provides room booking, staff management and other necessary hotel management features. The system allows the manager to post available rooms in the system.
